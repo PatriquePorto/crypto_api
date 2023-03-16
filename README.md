@@ -1,5 +1,9 @@
 # CryptoApi
 
+<p align="left">
+  <img alt="App" src="crypto_api.jpeg" width="50%" height="30%">
+</p>
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
