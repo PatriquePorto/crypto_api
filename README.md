@@ -1,5 +1,7 @@
 # CryptoApi
 
+Api to insert, delete, get crypto coins!!!
+
 <p align="left">
   <img alt="App" src="./assets/img/crypto_api.jpg" width="50%" height="30%">
 </p>
