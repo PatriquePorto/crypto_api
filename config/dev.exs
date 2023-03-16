@@ -3,7 +3,7 @@ import Config
 # Configure your database
 config :crypto_api, CryptoApi.Repo,
   username: "postgres",
-  password: "postgres",
+  password: "postgres123",
   hostname: "localhost",
   database: "crypto_api_dev",
   stacktrace: true,
